@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello World! Welcome to my Github.
 
-<!--
-**adiliosouza/adiliosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🔭 I’m currently working on Nginx, Docker, Zabbix, Grafana and Linux (CentOS, OL9 and Ubuntu)
+  - 🌱 I’m currently learning German, Ansible, CI/CD and pipelines.
+  - 💬 Ask me about family, Brazil and eternity.
+  - 📫 How to reach me: https://www.linkedin.com/in/adiliofigueiredo/
+  - ⚡ Fun fact: I don't know speak spanish.
 
-Here are some ideas to get you started:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adiliosouza&show_icons=true&hide_rank=true&include_all_commits=true&theme=dark)](https://github.com/adiliosouza/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiliosouza&show_icons=true&theme=dark&bg_color=00000000&langs_count=20)](https://github.com/adiliosouza)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+⬇️ Want to learn more how i built this readme? Look here ⬇️
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
