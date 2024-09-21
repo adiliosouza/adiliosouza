@@ -75,4 +75,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 And this video helped me too: [pt-br] https://www.youtube.com/watch?v=8Sf6OAS4y1E
+
+And the gold jar: https://profile-readme-generator.com/
 </details>
