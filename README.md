@@ -6,7 +6,7 @@
   - 📫 How to reach me: https://www.linkedin.com/in/adiliofigueiredo/
   - ⚡ Fun fact: I don't know speak spanish.
 ##
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adiliosouza&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/adiliosouza/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adiliosouza&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/adiliosouza/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiliosouza&show_icons=true&theme=dark&bg_color=00000000&langs_count=20)](https://github.com/adiliosouza)
 ##
 <div align="left">
